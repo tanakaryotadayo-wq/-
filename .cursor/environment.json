@@ -1,0 +1,4 @@
+{
+  "name": "Semantic Delta Engine + Gemini Neural Override Proxy",
+  "install": "python3 --version && python3 -c \"import ast, sqlite3, json, hashlib; print('stdlib ok')\""
+}
